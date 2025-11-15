@@ -1,6 +1,6 @@
 I began this project with the intention of making a firewall. I've instead made a simple implementation of Wireshark... I will call this project: 
 
-##WireGuppy
+## WireGuppy
 
 Let me explain - 
 
