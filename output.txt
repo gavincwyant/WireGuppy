@@ -1,0 +1,4600 @@
+connection socket created
+connection socket for address: 127.0.0.1 bound to port: 1234
+connection socket listening for connections...buffer size: 4096
+listeing on en0 using /dev/bpf0
+# bytes	|	NwrkProto	|	TrnsprtProto	|	 src → dest	|
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+115 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+108 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+343 bytes	IPv6:	UDP	38.0.64.65:55044 → 38.7.248.176:443
+payload:
+F.sV@.W
+
+
+432 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:55044
+payload:
+
+
+116 bytes	IPv6:	UDP	38.0.64.65:55044 → 38.7.248.176:443
+payload:
+w}BWR
+
+
+107 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:55044
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+123 bytes	IPv4:	TCP	192.168.1.158:63030 → 13.227.180.4:443
+payload:
+
+
+108 bytes	IPv4:	TCP	192.168.1.158:63030 → 13.227.180.4:443
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63030 → 13.227.180.4:443
+payload:
+
+
+168 bytes	IPv4:	TCP	13.227.180.4:443 → 192.168.1.158:63030
+payload:
+
+
+IPv4:	TCP	13.227.180.4:443 → 192.168.1.158:63030
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63030 → 13.227.180.4:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+352 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+IMYi)7
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+188 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+84 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1592 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+C}r/G
+
+
+IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+C}r/G
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+116 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+64 bytes	IPv4:	258 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+_rdlink
+local
+_companion-link
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+_rdlink
+local
+_companion-link
+
+
+468 bytes	IPv4:	UDP	192.168.1.158:5353 → 192.168.1.154:5353
+payload:
+_companion-link
+local
+Gavin
+s MacBook Air
+Gavins-MacBook-Air
+rpMac=0
+rpHN=7716e7b6e44b
+rpFl=0x20000
+rpHA=a189f06e6942
+rpVr=640.1.1
+rpAD=4d2fe01d983e
+rpHI=2e636b737c3c
+rpBA=96:59:79:2C:64:D9
+Gavin
+s MacBook Air
+_device-info
+model=Mac15,13
+osxvers=24
+icolor=7
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+704 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+b vaR
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+330 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+2622 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+*t&'GZ
+cuMaY
+AVgCCN
+
+
+IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+HU@u^
+8Z'k"
+[JwC\
+eIC#;V
+
+
+440 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+A.yH]
+j[4(q
+Uua* 
+Y!}]s
+
+
+105 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+QU#{/
+
+
+504 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+123 bytes	IPv4:	TCP	192.168.1.158:63001 → 172.64.155.209:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+228 bytes	IPv4:	TCP	172.64.155.209:443 → 192.168.1.158:63001
+payload:
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63001 → 172.64.155.209:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:63038 → 140.82.112.25:443
+payload:
+
+
+84 bytes	IPv4:	TCP	140.82.112.25:443 → 192.168.1.158:63038
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+93 bytes	IPv4:	UDP	192.168.1.158:62877 → 192.168.1.1:53
+payload:
+gstatic
+
+
+93 bytes	IPv4:	UDP	192.168.1.158:49705 → 192.168.1.1:53
+payload:
+gstatic
+
+
+93 bytes	IPv4:	UDP	192.168.1.158:11368 → 192.168.1.1:53
+payload:
+gstatic
+
+
+150 bytes	IPv4:	UDP	192.168.1.1:53 → 192.168.1.158:62877
+payload:
+gstatic
+google
+dns-admin
+11QZ^
+
+
+233 bytes	IPv4:	UDP	192.168.1.1:53 → 192.168.1.158:11368
+payload:
+gstatic
+
+
+IPv4:	UDP	192.168.1.1:53 → 192.168.1.158:49705
+payload:
+gstatic
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+|6hqB
+
+
+2622 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+|6hqB
+b=A-Ic
+8+,'c
+d^|urY1
+AM4x!]_
+h$9=X
+
+
+IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+|6hqB
+i|yl,(
+`[q#"
+bznK<`u
+ABKh0
+
+
+161 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+h@,J~jI
+
+
+828 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+FOg}c
+<8$'.E#
+
+
+2862 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+)w|p4
+g;/ZS3C
+>r"|'
+F08xl
+S1.[X
+BFwV{^
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+_''yoI
+BK;*h
+qx-s;A
+:6EsG
+
+
+2928 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+h?,r*
+gG@\'J
+Mnrmp
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+{^u\R
+:;X0A
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+~vMqP
+'=GB`
+=8IEU]
+"&}.0>
+SYH;$
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+975 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+6t^T9
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+>Y_NH
+Y_R7@A
+f0T`S
+(t3Hy
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+qC@t=2
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+G7rDD] 
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+
+
+115 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+"VCA30P
+
+
+303 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:52934
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+112 bytes	IPv6:	UDP	38.0.64.65:52934 → 38.7.248.176:443
+payload:
+Wl`z{
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+119 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+330 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+92 bytes	IPv6:	TCP	38.0.64.65:62748 → 38.7.248.176:5228
+payload:
+
+
+92 bytes	IPv6:	TCP	38.0.64.65:62774 → 38.0.144.0:443
+payload:
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:5228 → 38.0.64.65:62748
+payload:
+ion-link
+
+
+104 bytes	IPv6:	TCP	38.0.144.0:443 → 38.0.64.65:62774
+payload:
+ion-link
+
+
+92 bytes	IPv6:	TCP	38.0.64.65:62758 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	104 bytes	IPv6:	TCP	38.6.71.0:443 → 38.0.64.65:62758
+payload:
+ion-link
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+3064 bytes	IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+qlTO6
+x,B[N~a
+8O;C<
+A6;?T
+mkcGW
+VLvaQD
+H"&u\
+tMKm&
+]I-0N
+
+
+IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+tfwYe
+rkXTE
+1H4"J~-
+=-~h4b
+arKz{k
+
+
+1626 bytes	IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+?U&k@u#I
+uW.&g
+@Tl)M
+8fpY_*!T
+] -[6
+us^Q0I^
+
+
+IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+
+
+252 bytes	IPv4:	TCP	17.57.144.12:5223 → 192.168.1.158:60450
+payload:
+
+
+IPv4:	TCP	17.57.144.12:5223 → 192.168.1.158:60450
+payload:
+
+
+IPv4:	TCP	17.57.144.12:5223 → 192.168.1.158:60450
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+84 bytes	IPv4:	TCP	34.227.36.214:443 → 192.168.1.158:60619
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60619 → 34.227.36.214:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:53843 → 38.6.71.0:443
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:53843
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:53843 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:53843
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+108 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+112 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+84 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+704 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+sQeN8>T#
+3qG:cf
+pu"5"[
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+109 bytes	IPv6:	UDP	38.0.64.65:64913 → 38.7.248.176:443
+payload:
+
+
+108 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:64913
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+(wrqZp
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+C-Out
+K7-#z
+<[$\>&
+j]Q@ic
+.LHMa 4A
+^#ui4
+MQ<Y\
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+-#j t
+0~7kf
+?aD[~n
+|(5Lp
+8d6.w
+Ql&b~
+ ,m/z
+
+
+440 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+105 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+504 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+"+t8k
+;n}"[^|
+#Q$cj
+4kun^
+rPK&H
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+PPaZ*
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:62950 → 140.82.113.26:443
+payload:
+
+
+84 bytes	IPv4:	TCP	140.82.113.26:443 → 192.168.1.158:62950
+payload:
+
+
+164 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+IPv6:	60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+104 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+484 bytes	IPv4:	TCP	17.57.144.12:5223 → 192.168.1.158:60450
+payload:
+!?:Utl
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+
+
+116 bytes	IPv4:	TCP	192.168.1.158:60450 → 17.57.144.12:5223
+payload:
+
+
+84 bytes	IPv4:	TCP	17.57.144.12:5223 → 192.168.1.158:60450
+payload:
+
+
+160 bytes	IPv6:	TCP	38.0.64.65:62633 → 38.7.248.176:993
+payload:
+
+
+797 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+ qWdi8
+XZ?A<
+b,\;w
+i1k"%
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62633
+payload:
+
+
+153 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62633
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62633 → 38.7.248.176:993
+payload:
+
+
+167 bytes	IPv6:	TCP	38.0.64.65:62633 → 38.7.248.176:993
+payload:
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62633
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+326 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62633
+payload:
+
+
+IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62633
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62633 → 38.7.248.176:993
+payload:
+
+
+330 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+ ?39Jy
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+113 bytes	IPv6:	UDP	38.0.64.65:61169 → 38.0.64.65:53
+payload:
+icloud
+
+
+113 bytes	IPv6:	UDP	38.0.64.65:60156 → 38.0.64.65:53
+payload:
+icloud
+
+
+113 bytes	IPv6:	UDP	38.0.64.65:50880 → 38.0.64.65:53
+payload:
+icloud
+
+
+645 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:50880
+payload:
+icloud
+apple-dns
+
+
+IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:60156
+payload:
+icloud
+apple-dns
+
+
+227 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:61169
+payload:
+icloud
+apple-dns
+ns-1096
+awsdns-09
+awsdns-hostmaster
+amazon
+
+
+116 bytes	IPv6:	UDP	38.0.64.65:62843 → 38.0.64.65:53
+payload:
+apple-dns
+
+
+201 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:62843
+payload:
+apple-dns
+ns-1096
+awsdns-09
+awsdns-hostmaster
+amazon
+
+
+1430 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+oOMd+
+V~\Q:<
+\T#%a
+&bGD-
+
+
+1280 bytes	IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+qD~X.
+)#m21"
+]<kUz
+
+
+1626 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+&"@MK=g
+7v(k2^
+
+
+IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+4Kf`S
+GC;Gc
+6JYt"
+W+vuy
+
+
+148 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+
+
+768 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+/r<m=
+
+
+768 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+7|@AD
+
+
+202 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+1265 bytes	IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+SlI1I
+;Zl.ZA
+JPL$C
+
+
+IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+jO:)n
+
+
+123 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+881 bytes	IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+y%w#$
+c>~e_
+iN~kL
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+235 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+
+
+IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:58190 → 38.32.1.73:443
+payload:
+RRD=(%&
+L/Fx>
+M&MzB
+rEBJ5
+H$)B)
+6U<#j
+-&1zr@TT
+F_BX/j
+VDB&)
+\Ax&E@w
+Hf{oh.
+
+
+116 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+112 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+725 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+gateway.icloud.com
+http/1.1
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:58190 → 38.32.1.73:443
+payload:
+&~sOo
+n-r@K
+)?eJ)!
+
+
+3272 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+W`F?@
+m;9#i?Cg
+xh*A}
+~vRIC4
+kbswG
+E'v P]
+HCGG_
+i8{pj'
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+SJ1Jl
+?J\w(
+_ `|N8
+fRW#N
+^[ybq29iE
+"HGuFv
+xH'mUuP
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+838 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+qk'j5?W
+H/2u&
+&AEt)
+*cEd-qkj
+<<~NU
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+184 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+Vk'j5?W
+
+
+982 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+gLp5y
+,dk_ 
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+lNr@D
+$jql8
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+1423 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+E-aq2
+)'$/te
+_,IXU
+Bl=L30 N
+c8]%'uJq
+v7f[C
+O&T'$
+J+8$!y
+&m:Q.
+xswft
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+514 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+.Tp4h
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+135 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+104 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+810 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+Sc\m}N
+%Ir(30
+F;x#DbT
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:61065 → 38.32.1.73:443
+payload:
+6A=w0
+C-(#h
+C`DsR
+<7zkm(
+l0>KAv&~
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:61065 → 38.32.1.73:443
+payload:
+y9==-
+x}\WT
+CeH/:i
+{ecB^
+ys43F
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+1280 bytes	IPv6:	UDP	38.0.64.65:60148 → 38.32.1.73:443
+payload:
+1P<B(
+@oxQ6
+nl0H.
+l/Hu@
+}@kob
+PHA2f
+~`TJP
+
+
+116 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+1312 bytes	IPv6:	112 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+725 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+gateway.icloud.com
+http/1.1
+
+
+3168 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+:5m$WI
+"jKs>
+=;%%U
+xytt~hd
+18P&F
+y@!NJ
+cihAN
+>oP[_m]r
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+mA.&&
+}W?HY
+FNd0}
+ZpLedj
+"2Quc
+-8X@wNwr
+C?XM:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:61065 → 38.32.1.73:443
+payload:
+W~y7<,
+NH++^
+.iwVQ 
+=]7:\2
+ah(CU)
+cPFj8
+
+
+838 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+=@tiVm
+t5ED~~
+T'\6q
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+162 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:64913
+payload:
+
+
+112 bytes	IPv6:	UDP	38.0.64.65:64913 → 38.7.248.176:443
+payload:
+
+
+184 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+n'A=a8
+
+
+877 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+1423 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+Z5J l
+=I47?
+wLBip
+Fw0jf
+Ru9^x
+JptT5
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+794 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+!hWU:X
+$DLPaW1
+hqYFeG
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+343 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+2818 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+=0M[4
+MSIJ2
+Dz;0T
+r.M-3
+=&Ekb
+,p+{W0e
+KJHZ)!
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+e {LD^
+a,s:,
+dOt1}
+*Z`(q
+8fzeA
+EBNE6
+H0(KK;
+n:mn[
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+223 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+552 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+kIgN!
+Y2"!/
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+zW8PNB!
+
+
+104 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+1891 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+Y"ueZ
+4>(,Z
+:XC<H
+ d^0"6
+] A*i
+, ZNE
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+I$_OmB
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+143 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+128 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+208 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65086
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65086 → 38.32.1.73:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+143 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+128 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+208 bytes	IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+IPv6:	TCP	38.32.1.73:443 → 38.0.64.65:65087
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65087 → 38.32.1.73:443
+payload:
+
+
+706 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+ s1<S
+{|5_5
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+y{Bm~
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+128 bytes	IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:62879
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62879 → 42.6.152.193:443
+payload:
+
+
+132 bytes	IPv6:	TCP	38.0.64.65:62879 → 42.6.152.193:443
+payload:
+
+
+104 bytes	IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:62879
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+109 bytes	IPv4:	TCP	140.82.112.25:443 → 192.168.1.158:63038
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63038 → 140.82.112.25:443
+payload:
+
+
+113 bytes	IPv4:	TCP	192.168.1.158:63038 → 140.82.112.25:443
+payload:
+
+
+84 bytes	IPv4:	TCP	140.82.112.25:443 → 192.168.1.158:63038
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+224 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+156 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+683 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+
+
+IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+dSRdBV
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+503 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+206 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+226 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+ed-40cb-9c7a
+
+
+180 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+146 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+
+
+3064 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+BSq:3=>
+`Zz%T
+Tpe0'=
+J J/a
+
+
+IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+3o57oy
+(=wm(
+k<H87AtC
+v2S[+
+Lr)#Q
+*RM`D;
+-{cPf
+
+
+IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+105 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+611 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+Z<Vd#
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+126 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+126 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+190 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+210 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+115 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+108 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+96 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+92 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+626 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+api.github.com
+
+
+3732 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+nF<'U
+@${%J
+ :-*hy~
+.q_0m
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+UD>A=
+&axAci{
+\C(df
+'++EW2
+__FN~
+hHROf
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+W+D^O
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+90 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+158 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+515 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+VSLL=
+mH"xb
+
+
+96 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+327 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+HiW%F
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+92 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+626 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+api.github.com
+
+
+3731 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+Y6P4$kn-6
+Sh1m&
+CtK\=
+:E@^X
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+XtNL6
+Z56[C
+U&bpcq
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+la/"$-q@
+$[1Rt
+$tpv7TZ
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+90 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+190 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+210 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+158 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+8Z&jA
+e?z(D
+
+
+518 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+/X8":
+6[%]3
+
+
+327 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1505 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+etxRs
+gg1 '
+8.AZn
+pM118
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+124 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+124 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+#Pv5Bn+
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+276 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63051
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:63051 → 140.82.114.5:443
+payload:
+
+
+1505 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+=W4B*
+k5;|i
+8.TWp
+AoE&m
+d\{*JD
+{q~"t-56
+%V %T
+RqhAlWJ
+IC,8m
+FO!)R
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+124 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+124 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+276 bytes	IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+IPv4:	TCP	140.82.114.5:443 → 192.168.1.158:63052
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+144 bytes	IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+IPv4:	TCP	192.168.1.158:63052 → 140.82.114.5:443
+payload:
+
+
+299 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	190 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+210 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+356 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+_services
+_dns-sd
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+376 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+_services
+_dns-sd
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+352 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+188 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+c%h.d8
+
+
+206 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+226 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+84 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+92 bytes	IPv6:	TCP	254.128.0.0:50950 → 254.128.0.0:62822
+payload:
+
+
+104 bytes	IPv6:	TCP	254.128.0.0:62822 → 254.128.0.0:50950
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+153 bytes	IPv6:	TCP	38.0.144.0:443 → 38.0.64.65:62774
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62774 → 38.0.144.0:443
+payload:
+
+
+139 bytes	IPv6:	TCP	38.0.64.65:62774 → 38.0.144.0:443
+payload:
+
+
+139 bytes	IPv6:	TCP	38.0.64.65:62774 → 38.0.144.0:443
+payload:
+
+
+208 bytes	IPv6:	TCP	38.0.144.0:443 → 38.0.64.65:62774
+payload:
+
+
+IPv6:	TCP	38.0.144.0:443 → 38.0.64.65:62774
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+-'r<61
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+135 bytes	IPv6:	TCP	38.0.64.65:62758 → 38.6.71.0:443
+payload:
+
+
+129 bytes	IPv6:	TCP	38.6.71.0:443 → 38.0.64.65:62758
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62758 → 38.6.71.0:443
+payload:
+
+
+164 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+IPv6:	60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+104 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+9CNk5-o
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+117 bytes	IPv6:	UDP	38.0.64.65:50813 → 38.0.64.65:53
+payload:
+calendar
+google
+
+
+117 bytes	IPv6:	UDP	38.0.64.65:59181 → 38.0.64.65:53
+payload:
+calendar
+google
+
+
+117 bytes	IPv6:	UDP	38.0.64.65:56347 → 38.0.64.65:53
+payload:
+calendar
+google
+
+
+613 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:50813
+payload:
+calendar
+google
+dns-admin
+
+
+IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:59181
+payload:
+calendar
+google
+
+
+IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:56347
+payload:
+calendar
+google
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+0N>D0v7E
+W\\<f:
+pi<kY
+e(^TB
+
+
+116 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+G#K$QX`Dc
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+YK=ET)
+F1_Tt
+frUZd
+P')7?
+E8(,/
+=3@)(\
+|n[b*
+iIuc7
+
+
+2560 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+#xJUY
+qCBHu
+[`'F3G\
+1gO5z
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+&Vy2*
+$z+Oe
+-}^vFt
+eb*=J}
+7X13A.
+ToQa3L
+KOBLh
+*yO\~
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+112 bytes	IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+
+
+725 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+calendar.google.com
+http/1.1
+
+
+3944 bytes	IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+oB9+E
+>HgHJV
+4 uhu
+^+dz@
+>'0vg
+{c>V0
+2X5'"YI
+IXBQx
+n>.A0
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+i+~Ky
+MO,d{
+:%uFOE
+_D#%2
+xeJ0:
+aPf01|L:
+7*0DC
+u_/@Gm
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+cs",)i
+Y,N}&
+0a$KqL
+ob$,,
+5am(e
+fPlZ-
+(`{z"L
+(t^lu
+OziZ"
+Dm*(-
+
+
+3640 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+}TmR.1G
+Puo'7E
+
+
+IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+O"dMI
+bv'"T
+8[EF:
+,1nQ6
+e=gG5?
+w-*:R
+
+
+IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+<c;Ub
+^p;[kQ
+;p&S[
+}C:w0I
+Y9:^u
+
+
+223 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+2624 bytes	IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+5>4(%
+29[d[`
+
+
+IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+:}jFMO'w
+Mq2r*<m
+i)|lJ
+*NI>N
+jZK_]N
+9zOMc
+9_j6w
+*E)v|
+ikE>e
+]dU!d
+
+
+264 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+_services
+_dns-sd
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+284 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+local
+_services
+_dns-sd
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+
+
+1312 bytes	IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+:}jFMO'w
+Mq2r*<m
+i)|lJ
+*NI>N
+jZK_]N
+9zOMc
+9_j6w
+*E)v|
+ikE>e
+]dU!d
+
+
+153 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+_jn{p
+
+
+116 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+_jn{p
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+130 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+R:qO(
+oA36P
+
+
+436 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+ce.,)
+
+
+114 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+kewf\&
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+3028 bytes	IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+uU(\Z
+^Id,}.
+BtX@<
+
+
+IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+>DtHy
+IkRR1
+%/.#0
+r#JD*
+.Ju_K0
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+g1tpfJon
+:nup&T6
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+
+
+IPv6:	TCP	38.7.248.176:443 → 38.0.64.65:65088
+payload:
+
+
+1608 bytes	IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+IPv6:	TCP	38.0.64.65:65088 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
++=[E5
+`!%vV
+}m?fX
+8/Hg 
+Uk_zf
+\02ux
+n=wyT
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+
+
+427 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+110 bytes	IPv6:	UDP	38.0.64.65:63213 → 38.7.248.176:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63213
+payload:
+
+
+154 bytes	IPv6:	1280 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+tgeU4?4
+46UMW
+
+
+3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+c6Yq[
+oj~9&o
+wp4qs@,
+?G@8_
+(`Xa}
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+kY4vf
+f*|i)
+!81 "-
+`^+:~
+wyMQI
+D0U4,
+mTb6-*f
+2=jt}2
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+7M$Pi
+
+
+1399 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+'2DN>Rw-
+i,a74
+i*O${
+d.J}qPzpu
+
+
+IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+H5l:1
+hE'x7]
+,65p{0
+Tv^~j
+;2A\r
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+x&YBf
+(`Itont
+QtWo9
+4dvBh
+s~N7Z
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+T1VUX
+#RkDM#
+hpXDx
+NqgG|
+
+
+1008 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+//@91
+q*~gb=
+1O^\`
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+153 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+134 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+KG#$F
+
+
+488 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+#U3Y,
+`[xl._
+YUsE:
+
+
+114 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+KQ)qu7P
+
+
+245 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+yyx:f
+
+
+897 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+<Fe6k+
+%ae\@
+U1[o(
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+K_2R(
+
+
+1424 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+=N6=}
+:cjw+
+l-viU
+urCb'
+(n^Yw
+
+
+214 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+
+
+107 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+
+
+980 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+DY0s/
+H3[=<
+,W`%43
+CX}t)
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+110 bytes	IPv6:	UDP	38.0.64.65:63822 → 38.7.248.176:443
+payload:
+
+
+1280 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+Z3er9
+zw>nTM|C
+s+nQ8H\
+v[-bR
+Sw1am2
+@;uppVl
+o+_x+
+~oB6:
+aW3yc
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:63822
+payload:
+
+
+154 bytes	IPv6:	3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+&d3W|9
+Nzb3#W
+p[B'e
+XB|FI
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+e|95oc
+HiT1)
+T^o(b
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+Q9\sUn
+g""YD
+wSr\\>
+T3'tq
+Gtf$j
+}rs@K
+
+
+1399 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+&Ra^5K
+4'PXq
+pj=gZ
+42\cLj
+w]V/_5
+g?5M^w
+
+
+IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+z"zO?^
+:oz$r@
+W6o|k
+!H?3y, P
+w?n9<
+o(^9^A
+FDmiY
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+e$%:D2
+425lX
+V>i2{
+qN@F?F
+pW\3u
+.QN{?
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+v]WZ9
+WwLc}
+z!dGR";d)0
+fQ==-
+b%[*cuQL
+
+
+1012 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+;s<+Y
+IOdZ;
+\{nG|*z
+zl-uO4ISo
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+153 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+134 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+528 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+"uJpx
+:yZ[h
+DnG=e"
+@z$=e
+
+
+114 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+382 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+897 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+1424 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+K9{*fc
+
+
+IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+TviKk
+3Q;|2
+hy'TH*
+7c?a[$fY
+!t<.{
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+1704 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+]zyVbA
+c kiIM~
+ _e!ad
+
+
+1095 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+0,D;Q
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+\*I.~
+
+
+870 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+{R@Vf
+|T`7g:a~
+(;xS/
+[},.|*
+
+
+113 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+110 bytes	IPv6:	UDP	38.0.64.65:58258 → 38.7.248.176:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:58258
+payload:
+
+
+154 bytes	IPv6:	1280 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+\lm{V
+<W^Sr
+IJ6.i~
+?y@,gu
+
+
+3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+0J<Tx
+IN\v.@
+L!,<v
+hBz58{
+wG "kW_T
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+UK,nu
+z[I1'
+>e$2I
+1}Avh
+%6$Pt
+(Ga56
+OZ:Rr
+>t!]p
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+2nZB7
+LOc8F
+
+
+1399 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+Of,2Z
+o\alHV
+wRL6b
+bVDk!
+*Ly`K
+6%(g$
+
+
+IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+3840 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+ND#Law
+y-~)q
+4|R")
+.s3Qp
+bMq@\
+i@se%I
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+LgL24T
+[k4MD
+N;@]m
+5dr@CVD
+vI<5B{
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+"Kpm]
+i*?Ra
+m/.z:
+BW8V:
+(F8;wY~
+NZD|8gO'To
+
+
+1016 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+T0Qed
+j07xaat
+#i`xbO
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+153 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+(,1AGjem
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+134 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+486 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+AoKo9XH
+El^*Y
+^ewcD
+
+
+114 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+2467 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
++PcCk
+Dp}c=
+
+
+IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+<cFQ]}
+?UyP M.
+lO8/4
+~K\e8
+L/}W6C
+
+
+897 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+XbDlg)Z
+EwDY'`
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+
+
+1424 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+~@dPk$P
+y!+gg
+.{"$v9m}
+Q@~Nt*
+RS$[P
+H0a`2
+m9j|*
+,B:PSFit
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+
+
+106 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1948 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+Ldh0vd
++(M+h
+pWG(aT_
++P?vz
+ %Rio
+LL:wW]
+iH{Rf
+
+
+IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:51400
+payload:
+3KsYy5MRA
+bB*N_
+icfSo
+2tIPU
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+111 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+110 bytes	IPv6:	UDP	38.0.64.65:51400 → 38.7.248.176:443
+payload:
+
+
+123 bytes	IPv4:	TCP	192.168.1.158:60619 → 34.227.36.214:443
+payload:
+
+
+123 bytes	IPv4:	TCP	34.227.36.214:443 → 192.168.1.158:60619
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60619 → 34.227.36.214:443
+payload:
+
+
+356 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+_services
+_dns-sd
+
+
+376 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+_services
+_dns-sd
+
+
+274 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:53843 → 38.6.71.0:443
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:53843
+payload:
+
+
+186 bytes	IPv4:	UDP	192.168.1.158:5353 → 192.168.1.154:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:53843 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:53843
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+119 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+142 bytes	IPv4:	TCP	192.168.1.158:60741 → 52.112.86.47:443
+payload:
+
+
+131 bytes	IPv4:	TCP	52.112.86.47:443 → 192.168.1.158:60741
+payload:
+c@XU\
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60741 → 52.112.86.47:443
+payload:
+
+
+706 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+Wkoe#_&
+3@b>(
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+5pI-f
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+356 bytes	IPv4:	UDP	192.168.1.158:5353 → 224.0.0.251:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+_services
+_dns-sd
+
+
+376 bytes	IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+$b870a860-1ded-40cb-9c7a-3e5581dbbe87
+local
+$B83C0D9B-9737-438E-92A1-C9918AD20FEF
+_asquic
+_services
+_dns-sd
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+tRAp`
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+TC{!90
+l<!no
+ep9ou
+&HQ7'
+l'6Y%
+o2fs<
+Ab'lJ
+2p+E<Z
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+(gWEXT
+wWe2|
+pdxK<<
+2H]4BA
+
+
+440 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+_Lw(g4
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+\[c!_U
+EUMO;
+_?Hr2l!
+9}+hA
+vM{SM
+
+
+613 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+je1vO'
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+vjX+:
+wSi`@}B
+i5Dr3k&f
+
+
+249 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+-K-YP
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+139 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+172 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+208 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+qaND%
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+110 bytes	IPv4:	TCP	140.82.113.26:443 → 192.168.1.158:62950
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62950 → 140.82.113.26:443
+payload:
+
+
+114 bytes	IPv4:	TCP	192.168.1.158:62950 → 140.82.113.26:443
+payload:
+]pqV#
+
+
+84 bytes	IPv4:	TCP	140.82.113.26:443 → 192.168.1.158:62950
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+443 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+&l/q8=
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+148 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+104 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+143 bytes	IPv6:	TCP	38.7.248.176:993 → 38.0.64.65:62630
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62630 → 38.7.248.176:993
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+108 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+112 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+84 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+108 bytes	IPv4:	TCP	192.168.1.158:60669 → 17.248.228.65:443
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60669 → 17.248.228.65:443
+payload:
+
+
+84 bytes	IPv4:	TCP	17.248.228.65:443 → 192.168.1.158:60669
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60669 → 17.248.228.65:443
+payload:
+
+
+84 bytes	IPv4:	TCP	17.248.228.65:443 → 192.168.1.158:60669
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+109 bytes	IPv6:	UDP	38.0.64.65:64913 → 38.7.248.176:443
+payload:
+
+
+108 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:64913
+payload:
+yPKvNGI
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+154 bytes	IPv6:	TCP	38.0.64.65:62747 → 38.3.16.99:443
+payload:
+
+
+143 bytes	IPv6:	TCP	38.3.16.99:443 → 38.0.64.65:62747
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62747 → 38.3.16.99:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+154 bytes	IPv6:	TCP	38.0.64.65:62753 → 38.3.16.99:443
+payload:
+
+
+143 bytes	IPv6:	TCP	38.3.16.99:443 → 38.0.64.65:62753
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62753 → 38.3.16.99:443
+payload:
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	164 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+IPv6:	60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+104 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+706 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+wjXj5
+fb{9e
+NKtBQ
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+]lRC*
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+y:z=F
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+143 bytes	IPv6:	TCP	38.0.64.65:63002 → 42.6.152.193:443
+payload:
+
+
+128 bytes	IPv6:	TCP	38.0.64.65:63002 → 42.6.152.193:443
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:63002 → 42.6.152.193:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+312 bytes	IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:63002
+payload:
+
+
+IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:63002
+payload:
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:63002 → 42.6.152.193:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+104 bytes	IPv6:	96 bytes	IPv6:	121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+{[r>Og
+4HIUI
+9sy%BHF
+h2IE/
+895w8
+2V9Y^U{
+V|cq{
+4!3FQ
+R6=]'&
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+noT(Tj}(
+Y[7e[
+:5xNJuq 
+QI~A?
+
+
+440 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+&"f2=
+}XT:G
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:55042 → 38.32.1.73:443
+payload:
+
+
+215 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+111 bytes	IPv6:	UDP	38.32.1.73:443 → 38.0.64.65:55042
+payload:
+
+
+504 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+x~V#m
+
+
+126 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+102 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+126 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+162 bytes	IPv6:	UDP	38.7.248.176:443 → 38.0.64.65:64913
+payload:
+
+
+112 bytes	IPv6:	UDP	38.0.64.65:64913 → 38.7.248.176:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+84 bytes	IPv4:	TCP	34.227.36.214:443 → 192.168.1.158:60619
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:60619 → 34.227.36.214:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:53843
+payload:
+u'K53
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:53843 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+128 bytes	IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:62879
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:62879 → 42.6.152.193:443
+payload:
+
+
+132 bytes	IPv6:	TCP	38.0.64.65:62879 → 42.6.152.193:443
+payload:
+
+
+72 bytes	IPv4:	TCP	192.168.1.158:62754 → 76.223.31.44:443
+payload:
+
+
+104 bytes	IPv6:	TCP	42.6.152.193:443 → 38.0.64.65:62879
+payload:
+
+
+84 bytes	IPv4:	TCP	76.223.31.44:443 → 192.168.1.158:62754
+payload:
+
+
+115 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+108 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+"W+Qc]
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+352 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+o-C--
+
+
+IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+84 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+
+
+188 bytes	IPv4:	TCP	192.168.1.158:62184 → 3.167.88.115:443
+payload:
+G?yu~
+(@Sx-
+
+
+84 bytes	IPv4:	TCP	3.167.88.115:443 → 192.168.1.158:62184
+payload:
+
+
+330 bytes	IPv4:	UDP	192.168.1.154:5353 → 224.0.0.251:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+IPv6:	UDP	254.128.0.0:5353 → 255.2.0.0:5353
+payload:
+_rdlink
+local
+_companion-link
+Gavin
+s MacBook Air
+
+
+1423 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+Q\g}Q/
+|43YDa
+`~`Yr
+n69q)
+}lEuU@6*
+
+
+IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+_?NtL"7
+
+
+60 bytes	ARP(address resolution protocol) -> maps an IPv4 address to a MAC address! sending packets across Local Area Networks	
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+2622 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+},~m_
+!MP5Ka
+~L.o@
+<lT*x
+: pkw
+
+
+IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+NZy&_
+Bghbio
+CQ2_W
+/DAn"
+>4.;,
+M2#F:
+uRo4#H
+
+
+440 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+105 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+505 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+115 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+-1.kN
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+119 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:57899
+payload:
+
+
+119 bytes	IPv6:	UDP	38.0.64.65:57899 → 38.3.16.54:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+104 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+9ohA?qU10
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+121 bytes	IPv6:	UDP	38.0.64.65:57383 → 38.6.71.0:443
+payload:
+
+
+106 bytes	IPv6:	UDP	38.6.71.0:443 → 38.0.64.65:57383
+payload:
+
+
+116 bytes	IPv6:	UDP	38.0.64.65:18046 → 38.0.64.65:53
+payload:
+outlook
+office
+
+
+116 bytes	IPv6:	UDP	38.0.64.65:35522 → 38.0.64.65:53
+payload:
+outlook
+office
+
+
+116 bytes	IPv6:	UDP	38.0.64.65:5359 → 38.0.64.65:53
+payload:
+outlook
+office
+
+
+422 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:18046
+payload:
+outlook
+office
+substrate
+outlook
+office365
+ooc-g2
+
+
+597 bytes	IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:35522
+payload:
+outlook
+office
+substrate
+outlook
+office365
+ooc-g2
+outlook
+ms-acdc
+MNZ-efz
+
+
+IPv6:	UDP	38.0.64.65:53 → 38.0.64.65:5359
+payload:
+outlook
+office
+substrate
+outlook
+office365
+ooc-g2
+ns1-34
+azure-dns
+azuredns-hostmaster
+microsoft
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+l6-88w
+"`;:$
+7dL!t
+QMrBW9
+gy2UF
+iE/#~
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+J\=g+
+ `X)L
+$(}5/
+Zw)-,
+SYDX_
+fv`rghN
+
+
+1280 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+ ;)-F
+F YELe
+\_ZdX6T
+9O ~J
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+LJ;^`
+}@R/.!*
+7n^}V
+(EJXusbkN
+#4QJZ
+aNJH 
+
+
+116 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+
+
+3840 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+67Ly2
+I%djli/$
+U*6 R
+^{g)?^
+ +0qGq
+PMy%K
+
+
+IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+`nHrUGq 
+4sP((
+%t\}Tv
+/xG~i
+
+
+IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+xT[ql?
+Pr;5S
+{-`FUD
+kh/%4
+
+
+853 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+-$mtaLN
+5s: o
+vZ|ql`
+Q{j@%^
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+Jwl>{-D
+mIt19
+=IF#J
+_MVf1
+cbs4>
+nUi{`Gl
+t<cT)J
+
+
+125 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+
+
+261 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+
+
+1306 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+6xPiu
+MAzBK5
+F,Gk1
+]r52j]
+
+
+1310 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+ &@D)
+8Dt.%4
+.,2;)-
+1\O~[
+
+
+870 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+l%NjBG'
+kz# X
+/.mI~
+sHEX0
+95Z{U
+8UQ$UD
+
+
+520 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+y#"n{!
+u#]Lx
+
+
+748 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+_yfBOq
+,sG)a>C
+ytylo
+
+
+112 bytes	IPv6:	TCP	38.3.16.54:443 → 38.0.64.65:63053
+payload:
+_yfBOq
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+
+
+1532 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+outlook.office.com
+.o7nJ-vYF;Nh
+"^{a/f8
+Kk;& 
+A^iD3
+e6YtI
+Z;jEU/
+deMkGX
+
+
+404 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+]O}[j
+ &<9|
+http/1.1zz
+
+
+2807 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+zjpSIf
+u ( )`
+
+
+IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+CKL o~]
+UjLK3
+'U36 
+
+
+IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+
+
+IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+:?wGZQ
+
+
+118 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+
+
+117 bytes	IPv6:	UDP	38.0.64.65:49461 → 38.3.16.54:443
+payload:
+
+
+1532 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+.o7nJ-vYF;Nh
+"^{a/f8
+Kk;& 
+A^iD3
+e6YtI
+Z;jEU/
+deMkGX
+]O}[j
+ &<9|
+http/1.1zz
+
+
+307 bytes	IPv6:	TCP	38.3.16.54:443 → 38.0.64.65:63053
+payload:
+
+
+IPv6:	TCP	38.3.16.54:443 → 38.0.64.65:63053
+payload:
+
+
+104 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+
+
+678 bytes	IPv6:	TCP	38.0.64.65:63053 → 38.3.16.54:443
+payload:
+outlook.office.com
+.o7nJ-vYF;Nh
+"^{a/f8
+$6ZDc%
+http/1.1zz
+
+
+116 bytes	IPv6:	TCP	38.3.16.54:443 → 38.0.64.65:63053
+payload:
+
+
+1392 bytes	IPv6:	UDP	38.3.16.54:443 → 38.0.64.65:49461
+payload:
+ t&T"
+Y#I{%
+{<PuX
+3jjDf*
+>!$9(
+~<H0t
+@;Psz
+d.7q3T
+uhxW3,
+
+
+3064 bytes	IPv6:	TCP	38.3.16.54:443 → 38.0.64.65:63053
+payload:
+F,Gwf
+CFfxe
+}NrTd
+9

@@ -15,7 +15,7 @@
 #include <netinet/tcp.h>
 #include <netinet/ip.h>
 #include <netinet/if_ether.h>
-
+#include <netinet/ip6.h>
 
 
 #define PORT 1234
@@ -25,3 +25,5 @@
 typedef enum {CONN_SOCK, CLIENT_SOCK, BIND, LISTEN, BPF}ErrorType;
 
 void handle_error(ErrorType);
+
+void print_strings(const unsigned char *data, size_t len, int min_len);
