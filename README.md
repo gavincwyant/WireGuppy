@@ -1,12 +1,19 @@
-I began this project with the intention of making a firewall. I've instead made a simple implementation of Wireshark... I will call this project: 
-
 ## WireGuppy
 
-Let me explain - 
+This project began as an attempt to build a simple firewall. Since my host machine runs macOS, I initially chose to work with the **Berkeley Packet Filter** (`/dev/bpf0`), believing it would give me the low-level packet access I needed. Instead, I quickly discovered that BPF on macOS is excellent for **sniffing** packets—but not for **filtering** them.
 
-I wanted to use raw sockets on macOS, so I used /dev/bpf0 (Berkeley Packet Filter). This filter allows me to sniff all packet traffic on my 
-current network and display all kinds of cool information. I got to unwrap each layer of the packet: eth, ip, transport, until i got to the payload 
-(which I ran through my version of strings to find any useful info)
+What started as a firewall experiment evolved into a lightweight, Wireshark-style packet sniffer.
 
-This was as far as I could take the project using /dev/bpf0 because it does not give me the opportunitiy to make decisions on whether to 
-accept or drop packets. So I have decided to use iptables and NFQueue on a Linux VM to take this project further. 
+Using `/dev/bpf0`, I was able to capture raw packet data from my network interface and manually walk through each layer of every frame:  
+
+**Ethernet → IP → Transport → Payload**.  
+
+For the payload, I even wrote a simple “strings-like” extractor to reveal anything human-readable inside the packet contents.
+
+However, I eventually hit a fundamental limitation:  
+**macOS BPF does not allow user programs to accept, drop, or modify packets.**  
+It provides visibility, but not control. 
+
+Because firewall logic requires decision-making (accept, drop, rate-limit, redirect), I’m continuing this work on a Linux OS using iptables and NFQUEUE, which allows for userspace packet filtering.
+
+The continuation of this project will live in my firewall repo: https://github.com/gavincwyant/firewall
